@@ -26,7 +26,7 @@ section {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 15%;
+  padding: 5% 10%;
   text-align: center;
 }
 
@@ -36,8 +36,8 @@ section {
 }
 
 .sub-heading {
-  font-size: 1.5rem;
-  padding: 5%;
+  font-size: 1.3rem;
+  color: rgb(255, 85, 113);
 }
 
 /* papers */
@@ -350,4 +350,12 @@ section {
 
 .color{
   color: black;
+}
+
+.publication{  
+  font-size: 1.2rem;
+  width: 100%;
+}
+.publication li{
+  font-size: 3rem;
 }
